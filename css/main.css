@@ -1,0 +1,27 @@
+/* The side navigation menu */
+body {
+  background: black;
+  color: lime;
+}
+
+
+#para {
+  text-align: center;
+  align-content: center;
+  margin-bottom: 140vh ;
+}
+div.intro {
+  z-index: -1;
+  color: lightblue;
+  text-align: center;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  font-size: 4vh;
+  margin-bottom: 28vh;
+  background-color: transparent;
+}
+
+.projects {
+  color: blue;
+  text-align: center;
+}
