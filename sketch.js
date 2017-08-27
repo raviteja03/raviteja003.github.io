@@ -18,7 +18,7 @@ function setup() {
   canvas.position(0,0);
   canvas.style('z-index',-1);
   // translate(width/2,height/2);
-   points = font.textToPoints('RaviTeja',w/8,h/1.7, w*h/2900, {
+   points = font.textToPoints('RaviTeja',w/10,h/1.7, w*h/2900, {
     sampleFactor: 0.1
   });
 
